@@ -13,9 +13,6 @@ This is a React app built with Create React App. It allows users to search for m
 - JavaScript (ES6)
 - CSS
 
-## Getting Started
+## 💻 Live Preview
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+moviemunch-wahid.netlify.app
