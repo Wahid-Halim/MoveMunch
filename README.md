@@ -15,4 +15,4 @@ This is a React app built with Create React App. It allows users to search for m
 
 ## 💻 Live Preview
 
-Check out the live preview here: [MovieMunch Live](moviemunch-wahid.netlify.app)
+Check out the live preview here: [MovieMunch Live](https://moviemunch-wahid.netlify.app)
